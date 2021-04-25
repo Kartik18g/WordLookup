@@ -1,0 +1,16 @@
+{
+    "id": "3896d66e-2799-478d-bfa7-4fb2478f9164",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Kartik Gupta",
+        "homepage": "http://find-kartik-gupta.vercel.app/",
+        "support": "https://github.com/kartik18g"
+    },
+    "name": "Word Lookup",
+    "nameSlug": "word-lookup",
+    "classFile": "WordLookupApp.ts",
+    "description": "A Rocket.Chat app to look up the meaning of words inside rocket.chat",
+    "implements": []
+}
